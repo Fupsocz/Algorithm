@@ -2,6 +2,10 @@ package concurrency;
 
 import java.util.concurrent.*;
 
+/**
+ * 在master添加test
+ */
+
 public class FooBar {
 
     private int n;
