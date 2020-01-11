@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a15e2f59-b7fe-43a2-9002-14690e493f8d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Ou3tyPaBO9rcYOLPm8l5Z7HDWI" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Arraylis&#9;PSI&#9;JAVA://java.util.ArrayList" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553553007477" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/dianshangmiaosha/第三章.云端部署/miaoshaStable" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.Solution" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.Util" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YuanFuDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.YuanFuDao" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Util" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.YuanFuDao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a15e2f59-b7fe-43a2-9002-14690e493f8d" name="Default Changelist" comment="" />
+      <created>1539358263569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539358263569</updated>
+      <workItem from="1539358267209" duration="983000" />
+      <workItem from="1540039800845" duration="2327000" />
+      <workItem from="1540261969953" duration="17723000" />
+      <workItem from="1544888387411" duration="14878000" />
+      <workItem from="1547651381209" duration="1939000" />
+      <workItem from="1548862988438" duration="1334000" />
+      <workItem from="1551740836941" duration="54000" />
+      <workItem from="1551740940712" duration="5799000" />
+      <workItem from="1552623687524" duration="582000" />
+      <workItem from="1552874832083" duration="3661000" />
+      <workItem from="1553558220465" duration="567000" />
+      <workItem from="1553865540793" duration="275000" />
+      <workItem from="1554175652956" duration="791000" />
+      <workItem from="1554438251127" duration="1578000" />
+      <workItem from="1556449193420" duration="14000" />
+      <workItem from="1556449233707" duration="4727000" />
+      <workItem from="1558853467913" duration="795000" />
+      <workItem from="1560490055789" duration="80000" />
+      <workItem from="1560490183433" duration="7877000" />
+      <workItem from="1561895298640" duration="2783000" />
+      <workItem from="1562257468507" duration="3549000" />
+      <workItem from="1563093112211" duration="3112000" />
+      <workItem from="1563521819016" duration="7000" />
+      <workItem from="1564224827794" duration="7200000" />
+      <workItem from="1564813874579" duration="10501000" />
+      <workItem from="1565000658743" duration="1223000" />
+      <workItem from="1565088913902" duration="418000" />
+      <workItem from="1565090616814" duration="5544000" />
+      <workItem from="1565098399892" duration="36000" />
+      <workItem from="1565253727241" duration="8881000" />
+      <workItem from="1566020418003" duration="3261000" />
+      <workItem from="1566204742205" duration="12342000" />
+      <workItem from="1566812941840" duration="37000" />
+      <workItem from="1567150781831" duration="370000" />
+      <workItem from="1567234001602" duration="4824000" />
+      <workItem from="1567321163131" duration="10048000" />
+      <workItem from="1567527034269" duration="935000" />
+      <workItem from="1567766760164" duration="3568000" />
+      <workItem from="1568196435822" duration="1212000" />
+      <workItem from="1568545521014" duration="2204000" />
+      <workItem from="1568886538844" duration="6816000" />
+      <workItem from="1572698240397" duration="691000" />
+      <workItem from="1573716596342" duration="159000" />
+      <workItem from="1573716772572" duration="950000" />
+      <workItem from="1576163409989" duration="6158000" />
+      <workItem from="1576322312440" duration="9277000" />
+      <workItem from="1577029787173" duration="1895000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="648" y="269" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577608443253">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="648" y="269" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577608443253" />
+    <state x="648" y="286" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1576333414954" />
+    <state x="448" y="121" key="SettingsEditor" timestamp="1576333986119">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="121" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1576333986119" />
+    <state x="637" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1577029804365">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="637" y="368" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577029804365" />
+    <state x="637" y="383" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1576322313341" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1577763322144">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1577763322144" />
+  </component>
+</project>
