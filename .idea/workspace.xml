@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a15e2f59-b7fe-43a2-9002-14690e493f8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/concurrency/FooBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrency/FooBar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -134,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Util" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.YuanFuDao" />
+        <item itemvalue="Application.Util" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -210,8 +214,53 @@
       <workItem from="1573716772572" duration="950000" />
       <workItem from="1576163409989" duration="6158000" />
       <workItem from="1576322312440" duration="9277000" />
-      <workItem from="1577029787173" duration="2917000" />
+      <workItem from="1577029787173" duration="4245000" />
+      <workItem from="1580625795259" duration="509000" />
+      <workItem from="1580627193287" duration="340000" />
     </task>
+    <task id="LOCAL-00001" summary="master添加test">
+      <created>1578761282402</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578761282402</updated>
+    </task>
+    <task id="LOCAL-00002" summary="master添加test">
+      <created>1578761427386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578761427386</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第三次添加test">
+      <created>1578761567708</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578761567708</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第四次添加test">
+      <created>1578761589985</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578761589985</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第五次添加test">
+      <created>1578761618524</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578761618524</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第一次test分支添加">
+      <created>1578761713980</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578761713980</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -231,27 +280,99 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/test" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/test" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="test" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="master添加test" />
+    <MESSAGE value="第三次添加test" />
+    <MESSAGE value="第四次添加test" />
+    <MESSAGE value="第五次添加test" />
+    <MESSAGE value="第一次test分支添加" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次test分支添加" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="648" y="269" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578761135308">
+    <state x="648" y="269" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580625824252">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="648" y="269" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578761135308" />
+    <state x="648" y="269" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580625824252" />
     <state x="648" y="286" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1576333414954" />
+    <state x="295" y="38" width="1264" height="938" key="CommitChangelistDialog2" timestamp="1578761713893">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="295" y="38" width="1264" height="938" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1578761713893" />
+    <state x="192" y="97" width="1536" height="864" key="DiffContextDialog" timestamp="1578761464588">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="192" y="97" width="1536" height="864" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578761464588" />
     <state x="448" y="121" key="SettingsEditor" timestamp="1576333986119">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="448" y="121" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1576333986119" />
-    <state x="637" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1577029804365">
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1578761728444">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="637" y="368" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577029804365" />
-    <state x="637" y="383" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1576322313341" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1578761728444" />
+    <state x="637" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1580627196855">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="637" y="368" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580627196855" />
+    <state x="637" y="383" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1580625860825" />
+    <state x="748" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578795489280">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1578795489280" />
     <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1577763322144">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
