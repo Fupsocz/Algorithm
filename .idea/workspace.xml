@@ -216,7 +216,7 @@
       <workItem from="1576322312440" duration="9277000" />
       <workItem from="1577029787173" duration="4245000" />
       <workItem from="1580625795259" duration="509000" />
-      <workItem from="1580627193287" duration="340000" />
+      <workItem from="1580627193287" duration="1735000" />
     </task>
     <task id="LOCAL-00001" summary="master添加test">
       <created>1578761282402</created>
@@ -343,10 +343,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="第一次test分支添加" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="648" y="269" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580625824252">
+    <state x="648" y="269" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581146507863">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="648" y="269" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580625824252" />
+    <state x="648" y="269" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581146507863" />
     <state x="648" y="286" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1576333414954" />
     <state x="295" y="38" width="1264" height="938" key="CommitChangelistDialog2" timestamp="1578761713893">
       <screen x="0" y="0" width="1920" height="1080" />
