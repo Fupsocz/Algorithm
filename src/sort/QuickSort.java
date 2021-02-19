@@ -45,7 +45,7 @@ public class QuickSort {
             }
         }
         swap(arr, more ,R);
-        return  new int[] {less + 1, more};
+        return new int[] {less + 1, more};
     }
 
     public static void swap(int[] arr, int i, int j){
